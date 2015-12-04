@@ -30,7 +30,7 @@ If you want to brainstorm big ideas, report a little bug, build a revolutionary 
 
 [Projects](/projects) walk you step-by-step through the flow of making Internet of Things projects that combine physical and digital technology.
 
-[Guides](/guides) show you how to do focused tasks with software and hardware.
+[Doc Wiki](https://github.com/zettajs/zetta/wiki) includes getting started tutorials, deep background, how-to topics, and reference docs.   
 
 To [share IoT projects](/projects/2014/10/01/Share-A-Project.html) that you have created read the [How to Share a Project ](/projects/2014/10/01/Share-A-Project.html) guide.
 
